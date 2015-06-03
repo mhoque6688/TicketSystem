@@ -1,0 +1,252 @@
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\TicketDesk.Web.Client.dll.config
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\TicketDesk.Web.Client.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\TicketDesk.Web.Client.pdb
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\Antlr3.Runtime.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\EntityFramework.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\EntityFramework.SqlServer.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\MarkdownSharp.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.Owin.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.Owin.Security.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\Newtonsoft.Json.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\Owin.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\SimpleInjector.Diagnostics.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\SimpleInjector.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\System.Web.Helpers.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\System.Web.Mvc.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\System.Web.Optimization.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\System.Web.Razor.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\System.Web.WebPages.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\TicketDesk.Domain.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\TicketDesk.Domain.Legacy.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\TicketDesk.Domain.Search.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\TicketDesk.IO.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\TicketDesk.Web.Identity.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\WebGrease.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\WebHelpers.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\X.PagedList.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\X.PagedList.Mvc.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\RedDog.Search.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\Lucene.Net.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\AzureBlobFileSystem.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\System.Net.Http.Formatting.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.Data.Edm.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.Data.Services.Client.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.Data.OData.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\System.Spatial.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\TicketDesk.Domain.Legacy.pdb
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\TicketDesk.Domain.Search.pdb
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\TicketDesk.Domain.pdb
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\TicketDesk.IO.pdb
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\TicketDesk.Web.Identity.pdb
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\Antlr3.Runtime.pdb
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\EntityFramework.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\EntityFramework.SqlServer.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\MarkdownSharp.pdb
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\MarkdownSharp.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.Owin.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.Owin.Security.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\Newtonsoft.Json.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\SimpleInjector.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\SimpleInjector.Diagnostics.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\System.Web.Helpers.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\System.Web.Mvc.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\System.Web.Razor.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\System.Web.WebPages.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\System.Web.Optimization.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\Lucene.Net.pdb
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\Lucene.Net.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\System.Net.Http.Formatting.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.Data.Edm.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.Data.Services.Client.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.Data.OData.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\System.Spatial.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\de\System.Spatial.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\es\System.Spatial.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\fr\System.Spatial.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\it\System.Spatial.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\ja\System.Spatial.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\ko\System.Spatial.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\ru\System.Spatial.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\obj\Debug\TicketDesk.Web.Client.csprojResolveAssemblyReference.cache
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\obj\Debug\TicketDesk.Web.Client.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3\TicketDesk-2.5\TicketDesk.Web.Client\obj\Debug\TicketDesk.Web.Client.pdb
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\TicketDesk.Web.Client.dll.config
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\TicketDesk.Web.Client.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\TicketDesk.Web.Client.pdb
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\Antlr3.Runtime.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\EntityFramework.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\EntityFramework.SqlServer.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\MarkdownSharp.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.Owin.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.Owin.Security.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\Newtonsoft.Json.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\Owin.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\SimpleInjector.Diagnostics.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\SimpleInjector.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\System.Web.Helpers.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\System.Web.Mvc.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\System.Web.Optimization.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\System.Web.Razor.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\System.Web.WebPages.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\TicketDesk.Domain.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\TicketDesk.Domain.Legacy.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\TicketDesk.Domain.Search.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\TicketDesk.IO.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\TicketDesk.Web.Identity.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\WebGrease.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\WebHelpers.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\X.PagedList.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\X.PagedList.Mvc.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\RedDog.Search.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\Lucene.Net.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\AzureBlobFileSystem.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\System.Net.Http.Formatting.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.Data.Edm.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.Data.Services.Client.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.Data.OData.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\System.Spatial.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\TicketDesk.Domain.Legacy.pdb
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\TicketDesk.Domain.Search.pdb
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\TicketDesk.Domain.pdb
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\TicketDesk.IO.pdb
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\TicketDesk.Web.Identity.pdb
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\Antlr3.Runtime.pdb
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\EntityFramework.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\EntityFramework.SqlServer.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\MarkdownSharp.pdb
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\MarkdownSharp.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.Owin.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.Owin.Security.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\Newtonsoft.Json.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\SimpleInjector.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\SimpleInjector.Diagnostics.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\System.Web.Helpers.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\System.Web.Mvc.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\System.Web.Razor.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\System.Web.WebPages.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\System.Web.Optimization.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\Lucene.Net.pdb
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\Lucene.Net.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\System.Net.Http.Formatting.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.Data.Edm.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.Data.Services.Client.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\Microsoft.Data.OData.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\System.Spatial.xml
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\de\System.Spatial.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\es\System.Spatial.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\fr\System.Spatial.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\it\System.Spatial.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\ja\System.Spatial.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\ko\System.Spatial.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\ru\System.Spatial.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\obj\Debug\TicketDesk.Web.Client.csprojResolveAssemblyReference.cache
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\obj\Debug\TicketDesk.Web.Client.dll
+C:\Users\Mohammed\Desktop\TicketDesk-td2-v2.1.3 - Copy\TicketDesk-2.5\TicketDesk.Web.Client\obj\Debug\TicketDesk.Web.Client.pdb
